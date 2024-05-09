@@ -2,11 +2,11 @@
 <h1 align="center">Olá 👋, Meu nome é Leonardo</h1>
 <h3 align="center">Sou um desenvolvedor apaixonado por tecnologia.</h3>
 
--🔭 Estou trabalhando atualmente em projetos pessoais em Java e SpringBoot
+- 🔭 Estou trabalhando atualmente em projetos pessoais em Java e SpringBoot
 
--👯 Estou de olho em novas ideias de negócios. Se você tiver algo interessante, me chama! 🚀
+- 👯 Estou de olho em novas ideias de negócios. Se você tiver algo interessante, me chama! 🚀
 
--🌱 Aprendendo Java, SpringBoot e Docker
+- 🌱 Aprendendo Java, SpringBoot e Docker
 
 - 💬 Pergunte-me sobre **soluções tecnológicas💻, esportes🏈, viagens✈️, comida🍔, conselhos de vida💡, jogos🎮.**
 
